@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CorrSatisfactoryScene.unity
+    guid: d7dfc65c71ac9e642858d72ab5d2da3d
   m_configObjects: {}
